@@ -1,0 +1,127 @@
+body{
+    padding: 10px 10px 5px 5px;
+    font-family: sans-serif;
+
+}
+.vert{
+    background-color: rgb(175, 212, 6);
+    padding: 20px 20px 20px 20px;
+}
+.second{
+    background: linear-gradient(90deg,#1E8449,#58D68D);
+
+}
+  
+.premier{
+    background-color:  rgb(175, 212, 6);
+   
+}
+h1{
+    width: 500px;
+    height: 20px;
+     /* border: 1px solid white; 
+    width: 900px;
+    height: 60px; 
+    translate: 60px;
+    border-radius: 5px;
+    background-color: rgba(166, 201, 10, 0.74); */
+}
+.opa{
+opacity: 0.4;
+background-color: antiquewhite;
+}
+.bloc{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.noir{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+}
+.for{
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    margin: 30px;
+    padding-top: 20px;
+}
+.gris{
+  border-style: none;
+  background-color: rgb(233, 227, 227);
+  height: 50px;
+  width: 300px;
+}
+.login{
+    border-style: none;
+    background: linear-gradient(90deg,#1E8449,#58D68D);
+  height: 50px;
+  width: 300px;
+}
+span{
+    color: rgb(105, 187, 137);
+}
+.h3{
+   margin-right: 30px;
+   margin-bottom: 20px;
+}
+.trois{
+    background-color:  rgb(175, 212, 6);
+}
+.one{
+    text-align: center;
+}
+input{
+    height: 25px;
+    width: 300px;
+    
+}
+select{
+    height: 30px;
+    width: 310px;
+}
+.ins{
+    height: 30px;
+    width: 500px;
+}
+::placeholder{
+    padding: 15px;
+}
+.ip{
+   height: 15px;
+   width: 15px;
+   position: relative;
+   left: 20px;
+   
+}
+img{
+   position: absolute;
+    left: 620px;
+    bottom: 270px;
+}
+.it{
+    position: relative;
+    left: 20px;
+}
+fieldset{
+    border: 2px solid white;
+    border-radius: 4px;
+}
+.submit{
+position: absolute;
+background-color: rgba(22, 21, 21, 0.829);
+border-radius: 30px;
+color: white;
+
+}
+.ones{
+background-color:rgba(243, 225, 225, 0.61);
+text-shadow: 2px -2px 3px white;
+}
+.gauche{
+    position: absolute;
+    left: 1000px;
+}
